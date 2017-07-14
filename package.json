@@ -1,0 +1,24 @@
+{
+  "name": "i_fly_chat",
+  "version": "1.0.0",
+  "description": "This is a demo of iFly Chat",
+  "scripts": {
+   "start" : "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanjariyaHardik/i_fly_chat.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Hardik Kanjariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanjariyaHardik/i_fly_chat/issues"
+  },
+  "homepage": "https://github.com/KanjariyaHardik/i_fly_chat#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
